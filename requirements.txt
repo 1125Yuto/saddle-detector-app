@@ -1,5 +1,6 @@
-git+https://github.com/ultralytics/ultralytics.git
-streamlit
-numpy
+ultralytics>=8.0.0
+streamlit>=1.27.0
 opencv-python
+numpy
 Pillow
+
