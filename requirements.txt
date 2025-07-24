@@ -1,5 +1,5 @@
-ultralytics>=8.0.0
-streamlit>=1.27.0
+ultralytics
+streamlit
 opencv-python
 numpy
 Pillow
